@@ -1,7 +1,7 @@
 ### Hi there 👋
 Check out my most recent project! [Plasma Spectroscopy Using Gradient Descent](https://github.com/loganRidings/Plasma-Spectroscopy-Gradient-Descent.git)
 - 🔭 I’m currently working on ...
-Signal Processing on time-series optical spectroscopy data. Exploring optical emissions using a limited parameter space. Also using reference spectra and gradient descent to find best fit compositions.
+Signal Processing on time-series optical spectroscopy data. Exploring optical emissions using a limited parameter space. Using reference spectra and gradient descent to find best fit compositions. Also micro-machining parts for FIB systems, working on ion column R&D, and practicing general charged particle microscopy.
 - 🌱 I’m currently learning ...
 R language for financial modeling applications, scientific data application building with Python, and machine learning.
 - 👯 I’m looking to collaborate on ... Recurrent Neural Network Implementation for Generative Adversarial Networks!
