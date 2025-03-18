@@ -1,13 +1,11 @@
 ### Hi there 👋
-Check out my most recent project! [Plasma Spectroscopy Using Gradient Descent](https://github.com/loganRidings/Plasma-Spectroscopy-Gradient-Descent.git)
-- 🔭 I’m currently working on ...
-Signal Processing on time-series optical spectroscopy data. Exploring optical emissions using a limited parameter space. Using reference spectra and gradient descent to find best fit compositions. Also micro-machining parts for FIB systems, working on ion column R&D, and practicing general charged particle microscopy.
+Check out this project! [Plasma Spectroscopy Using Gradient Descent](https://github.com/loganRidings/Plasma-Spectroscopy-Gradient-Descent.git)
+- 🔭 I’m currently working on: Creating an ASL translation model. I'm currently in the early stages, just classifying alphabet symbols. The next step is to expand the vocabulary of the classification model, implement a version of the model which can run in real-time on video, and lastly, create a tranformer model to translate to American English. ASL is unsimilar grammatically to English, which makes it an interesting case for a transformer model, which could learn to translate the semantics of the ASL sequence to the grammatical structure of English.
 - 🌱 I’m currently learning ...
-R language for financial modeling applications, scientific data application building with Python, and machine learning.
-- 👯 I’m looking to collaborate on ... Recurrent Neural Network Implementation for Generative Adversarial Networks!
-- 🤔 I’m looking for help with ... Strategies for LSTM integration with a simple RNN in TensorFlow.
+Transformer models for translation tasks. I am working on translating ASL images to English, including grammatical transformations.
+- 🤔 I’m looking for help with ... Conditional Diffusion models, I am trying to condition a generative model on word embeddings.
 - 💬 Ask me about ... 
-Nanotechnology and focused charged particle beams!
+Nanotechnology and focused charged particle beams.
 - 📫 How to reach me: ...
 Find me on [LinkedIn](https://www.linkedin.com/in/logan-ridings)
 - 😄 Pronouns: ...
