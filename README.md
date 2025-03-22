@@ -1,5 +1,5 @@
 ### Hi there 👋
-Check out this project! [Plasma Spectroscopy Using Gradient Descent](https://github.com/loganRidings/Plasma-Spectroscopy-Gradient-Descent.git)
+Check out my website! [Portfolio](https://loganridings.org)
 - 🔭 I’m currently working on: Creating an ASL translation model. I'm currently in the early stages, just classifying alphabet symbols. The next step is to expand the vocabulary of the classification model, implement a version of the model which can run in real-time on video, and lastly, create a tranformer model to translate to American English. ASL is unsimilar grammatically to English, which makes it an interesting case for a transformer model, which could learn to translate the semantics of the ASL sequence to the grammatical structure of English.
 - 🌱 I’m currently learning ...
 Transformer models for translation tasks. I am working on translating ASL images to English, including grammatical transformations.
